@@ -2,3 +2,4 @@ Added a line from main
 Added another line from main
 Added a line from feature1.
 Added another line from feature1.
+This is a line from feature2.
